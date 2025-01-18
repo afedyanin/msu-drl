@@ -6,7 +6,7 @@
 - [Deep-RL-Course-Certification](https://huggingface.co/spaces/huggingface-projects/Deep-RL-Course-Certification/)
 - [Deep-Reinforcement-Learning-Leaderboard](https://huggingface.co/spaces/huggingface-projects/Deep-Reinforcement-Learning-Leaderboard)
 - [Check-My-Progress](https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-Deep-RL-Course)
-
+- [leaderboard data](https://huggingface.co/datasets/huggingface-projects/drlc-leaderboard-data)
 
 ## Notes
 
