@@ -10,7 +10,7 @@
 
 ## Notes
 
-- [what is rl](what_is.rl.md)
+- [what is rl](what_is_rl.md)
 - [q-learning](q_learning.md)
 - [dqn](dqn.md)
 
