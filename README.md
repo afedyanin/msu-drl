@@ -14,4 +14,4 @@ DRL playground
 
 ## Docs
 
-- [huggingface drl cource notes](huggingface/docs/hugging_face_drl.md)
+- [huggingface drl cource notes](huggingface/docs/000_hugging_face_drl.md)
