@@ -10,9 +10,9 @@
 
 ## Notes
 
-- [what is rl](001_what_is_rl.md)
-- [q-learning](002_q_learning.md)
-- [dqn](003_dqn.md)
+- [001 what is rl](001_what_is_rl.md)
+- [002 q-learning](002_q_learning.md)
+- [003 dqn](003_dqn.md)
 
 
 
