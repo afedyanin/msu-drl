@@ -8,6 +8,10 @@
 - [Check-My-Progress](https://huggingface.co/spaces/ThomasSimonini/Check-my-progress-Deep-RL-Course)
 - [leaderboard data](https://huggingface.co/datasets/huggingface-projects/drlc-leaderboard-data)
 
+### SB3-Zoo
+
+- 
+
 ## Notes
 
 - [001 what is rl](001_what_is_rl.md)
