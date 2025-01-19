@@ -156,8 +156,15 @@ We can also collect multiple episodes (trajectories) to estimate the gradient:
 
 ![reinforce](pictures/hugging-027.png)
 
+## Reinforce Training Algorithm
 
+![reinforce](pictures/hugging-028.png)
 
+- When we calculate the return Gt (line 6), we see that we calculate the sum of discounted rewards starting at timestep t.
+- Why? Because our policy should only reinforce actions on the basis of the consequences: so rewards obtained before taking an action are useless (since they were not because of the action), only the ones that come after the action matters.
+
+- [Don’t Let the Past Distract You](https://spinningup.openai.com/en/latest/spinningup/rl_intro3.html#don-t-let-the-past-distract-you)
+- 
 
 
 
